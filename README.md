@@ -1,5 +1,4 @@
 # CODETECH-TASK1
-![Screenshot (66)](https://github.com/user-attachments/assets/31671f27-1ff4-4af9-89a2-93b4990519ea)
 
 NAME:- ANIKET KIRAN MEDHEKAR
 COMPANY:- CODTECH IT SOLUTIONS
