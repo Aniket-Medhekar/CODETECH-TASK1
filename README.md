@@ -1,16 +1,15 @@
 # CODETECH-TASK1
 
-NAME:- ANIKET KIRAN MEDHEKAR
-COMPANY:- CODTECH IT SOLUTIONS
-ID:- CT06DS1492
-DOMAIN:-DATA ANALYTICS
-DURATION:-1st AUGUST 2024 TO 15th SEPTEMBER 2024
+**NAME**:- ANIKET KIRAN MEDHEKAR
+**COMPANY**:- CODTECH IT SOLUTIONS
+**ID**:- CT06DS1492
+**DOMAIN**:-DATA ANALYTICS
+**DURATION**:-1st AUGUST 2024 TO 15th SEPTEMBER 2024
 
 
 
 **OVERVIEW OF THE PROJECT**
-
-PROJECT:- EXPLORATORY DATA ANALYSIS(EDA) ON DIWALI SALES DATASET
+PROJECT:- Exploratory Data Analysis(EDA) on Diwali Sales Dataset.
 
 **OBJECTIVE**
 TThe objective of this project is to perform Exploratory Data Analysis(EDA) on a dataset containing Diwali Sales Data.The aim is to analyze various insights on Sales, Trends and correlation between various attributes
